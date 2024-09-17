@@ -1,0 +1,58 @@
+{
+  "reviews": [
+    {
+      "userId": 101,
+      "rating": 4,
+      "comment": "ууу",
+      "movieId": 301,
+      "id": 301,
+      "movieNameRu": "Матрица",
+      "movieNameEn": null,
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/301.jpg"
+    },
+    {
+      "userId": 101,
+      "rating": 10,
+      "comment": "Супер отзыв пупер",
+      "movieId": 430,
+      "id": 430
+    },
+    {
+      "userId": 101,
+      "rating": 6,
+      "comment": "JIFEJIFEJIFJEFJIEJFI",
+      "movieId": 5273,
+      "id": 5273
+    },
+    {
+      "userId": 101,
+      "rating": 3,
+      "comment": "ьььь",
+      "movieId": 749374,
+      "id": 749374,
+      "movieNameRu": "Атака титанов",
+      "movieNameEn": null,
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/749374.jpg"
+    },
+    {
+      "userId": 101,
+      "rating": 7,
+      "comment": "",
+      "movieId": 4920181,
+      "id": 4920181,
+      "movieNameRu": "Хоккейные папы",
+      "movieNameEn": null,
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4920181.jpg"
+    },
+    {
+      "userId": 101,
+      "rating": 5,
+      "comment": "",
+      "movieId": 5368179,
+      "id": 5368179,
+      "movieNameRu": "Баба Мороз и тайна Нового Года",
+      "movieNameEn": null,
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5368179.jpg"
+    }
+  ]
+}
